@@ -1,6 +1,5 @@
  
 ## Hello!!I'm Lucas Lima :+1:
-Estudante de Engenharia Mecânica, Inglês intermediario. Tenho 29 anos de Teresina-PI. Apaixonado por jogos, esportes e tecnologia.  
 
 ## Bem-vindo ao meu perfil! Você pode entrar em contato comigo por:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-a87a05ba/)
