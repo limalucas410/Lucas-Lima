@@ -20,7 +20,7 @@ Estudante de Engenharia Mecânica, Inglês intermediario. Tenho 29 anos de Teres
 ## ![giphy (1)](https://github.com/user-attachments/assets/1f5bd0e4-2feb-4159-9171-d9e30c45d705)
 
 
-![Lucas Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=limalucas410&show_icons=true&theme=radical)
+![Lucas Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-lima&show_icons=true&theme=radical)
 
 
 
