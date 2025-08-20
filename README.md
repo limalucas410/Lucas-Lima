@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/)
 
-## ![Lucas Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-lima&show_icons=true&theme=radical)
+## ![Lucas Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=limalucas410&show_icons=true&theme=radical)
 
 ## As Tecnologias que utilizo!!
 <div style="display: inline_block"><br/>
