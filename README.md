@@ -8,6 +8,7 @@ Estudante de Engenharia Mecânica, Inglês intermediario. Tenho 29 anos de Teres
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/)
 
+## ![Lucas Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=limalucas410&show_icons=true&theme=radical)
 
 ## As Tecnologias que utilizo!!
 <div style="display: inline_block"><br/>
@@ -20,7 +21,7 @@ Estudante de Engenharia Mecânica, Inglês intermediario. Tenho 29 anos de Teres
 ## ![giphy (1)](https://github.com/user-attachments/assets/1f5bd0e4-2feb-4159-9171-d9e30c45d705)
 
 
-![Lucas Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-lima&show_icons=true&theme=radical)
+
 
 
 
